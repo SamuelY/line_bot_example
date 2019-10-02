@@ -1,0 +1,258 @@
+
+> linebot@0.0.0 start /home/luser/lineBot
+> node ./bin/www
+
+[ { type: 'message',
+    replyToken: '5f1dc50c6d9a4b1a96b08bed4fe92e6f',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053178275,
+    message: { type: 'text', id: '10607139698521', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '4fe797fef3254c99ae2b92c2f6f90ab6',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053184555,
+    message: { type: 'text', id: '10607140139396', text: '5' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '3c22169db41e429dbc24163dd37651ff',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053188845,
+    message: { type: 'text', id: '10607140458171', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'fc7a40e4759a45dbbca04a1e87b2e413',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053207660,
+    message: { type: 'text', id: '10607141816695', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '7133c39753b74952a5ddca1730c63a6b',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053213481,
+    message: { type: 'text', id: '10607142234209', text: '你點擊了第二個圖示' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'fdb42d2104ff427dab2b811344bcb793',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053226664,
+    message: { type: 'text', id: '10607143184447', text: '1' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'b430db812b914d958d97751817debf00',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053227588,
+    message: { type: 'text', id: '10607143254250', text: '2' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'df16da8d6e5746b3a2be3ca9796cabe8',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053228574,
+    message: { type: 'text', id: '10607143321409', text: '3' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'b7c55a90b5214ebfb40b5963998fa5de',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053472923,
+    message: { type: 'text', id: '10607161018545', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '7cfcf3de90f34962bb769425315156f0',
+    source: { userId: 'Ud38999fe31fff5e6192c3da47330d74c', type: 'user' },
+    timestamp: 1569053537339,
+    message: { type: 'text', id: '10607165697398', text: '凹' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '6a66a80fead84537971a90af2a50e3ed',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053546827,
+    message: { type: 'text', id: '10607166378401', text: '泡泡3' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'd64d880744154a37b0869be9c39f3444',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053549646,
+    message: { type: 'text', id: '10607166589159', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '088ee0297cf747e1bef486b80456a830',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053555813,
+    message: { type: 'text', id: '10607167031631', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'postback',
+    replyToken: '53e8a32d7bac41c48d091cf5c73fd520',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053570044,
+    postback: { data: 'just try it' } } ]
+[0mPOST /webhook [31m500 [0m316.968 ms - 1127[0m
+[ { type: 'message',
+    replyToken: '2eb77e65ed5f4bbcb9eed68d3a01789c',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569053570043,
+    message: { type: 'text', id: '10607168064221', text: 'Hello, World!' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'follow',
+    replyToken: '7a45a8e5393740e1a13470b82b613ce2',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053897126 } ]
+[0mPOST /webhook [31m500 [0m16.486 ms - 1127[0m
+[ { type: 'message',
+    replyToken: '625d6b988b714691b20f6f612bf9b4fb',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053907097,
+    message: { type: 'text', id: '10607192560442', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '3d8aa39f5e534cd49107dcb5dd20b7f9',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053923521,
+    message: { type: 'text', id: '10607193762744', text: '你點擊了第二個圖示' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'a3a2eda0b6754939873fce9d06084b39',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053927125,
+    message: { type: 'text', id: '10607194027927', text: '3' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '706c7d77811646e3b9a5cdd476919e3a',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053927984,
+    message: { type: 'text', id: '10607194081933', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'e8320510251148b58a8f90cb4341bc39',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053930614,
+    message: { type: 'text', id: '10607194273914', text: '5' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'e989b9b7afa4402b91561213e55abc50',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053931111,
+    message: { type: 'text', id: '10607194315435', text: '4' } },
+  { type: 'message',
+    replyToken: '782fb405a4924234b1a26fca785ab6f5',
+    source: { userId: 'U7d276312320a3b481bc2194df49e15ca', type: 'user' },
+    timestamp: 1569053931748,
+    message: { type: 'text', id: '10607194368150', text: '1' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'follow',
+    replyToken: 'f79a28c553e04208b66a70c1d006dae2',
+    source: { userId: 'U028e58d25529ed8b226860d341f56327', type: 'user' },
+    timestamp: 1569055615032 } ]
+[0mPOST /webhook [31m500 [0m9.870 ms - 1127[0m
+[ { type: 'message',
+    replyToken: '33b3f64a4b1648a2b5da41b442a4fe25',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077452553,
+    message: { type: 'text', id: '10609118573694', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'f1e15a84d57f41349f95a1e2176b5c3e',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077458829,
+    message: { type: 'text', id: '10609119065422', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'a87489acbfd24d3c8c46a1043844c5cd',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077471495,
+    message: { type: 'text', id: '10609120061581', text: '你點擊了第二個圖示' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '2d57e515fa7e4f3b8db502d78b614942',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077481285,
+    message: { type: 'text', id: '10609120830302', text: '1' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '20166a1cac3241178c8c2cfbed4457cf',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077482627,
+    message: { type: 'text', id: '10609120933010', text: '2' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '76d98df832044bb685ec7770920ba879',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077483587,
+    message: { type: 'text', id: '10609121004882', text: '3' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '6d58476fd39e4ee09aeb77e99b864605',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077484487,
+    message: { type: 'text', id: '10609121075588', text: '4' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '4203e328258b46648dd996d5c3f1f0a1',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077485310,
+    message: { type: 'text', id: '10609121144810', text: '5' } },
+  { type: 'message',
+    replyToken: '55ab4ea6560342c380815f838e03844a',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569077486122,
+    message: { type: 'text', id: '10609121206482', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'postback',
+    replyToken: '660aebfb48b74bde9cf741f38b4d4fd3',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569089407183,
+    postback: { data: 'just try it' } } ]
+[0mPOST /webhook [31m500 [0m19.176 ms - 1127[0m
+[ { type: 'message',
+    replyToken: 'fa7d9e8a0dfa43e588deccf05a3c9425',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569089407182,
+    message: { type: 'text', id: '10609809743368', text: 'Hello, World!' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '8fee1d2401f34c6d8defb3f737dfb164',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569089411264,
+    message: { type: 'text', id: '10609809932292', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'f71c07c5d54c4c778d30a7e630dcb024',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569089414825,
+    message: { type: 'text', id: '10609810086054', text: '你點擊了第二個圖示' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '3005a3ecc4de42678c65d05593654408',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569206732590,
+    message: { type: 'text', id: '10616801968745', text: 'test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '028a07a9fad34beca8b9fc8e6afa35bc',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569206734552,
+    message: { type: 'text', id: '10616802106672', text: '5' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: 'b1f988788bc8468283933bdfe35a33e4',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569206735565,
+    message: { type: 'text', id: '10616802183261', text: '4' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '757fbf66d9e74360a3b22b3ca7986616',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569206736965,
+    message: { type: 'text', id: '10616802289641', text: '3' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '432718ed21494ba288431146c2d20e87',
+    source: { userId: 'U72b0c5ce5afe7307bee83d57da3eea04', type: 'user' },
+    timestamp: 1569206738473,
+    message: { type: 'text', id: '10616802392221', text: '6' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
+[ { type: 'message',
+    replyToken: '0916cd561f7f45de98343ad598384849',
+    source: { userId: 'Ud38999fe31fff5e6192c3da47330d74c', type: 'user' },
+    timestamp: 1569217100071,
+    message: { type: 'text', id: '10617571115519', text: 'Test' } } ]
+[0mPOST /webhook [0m- [0m- ms - -[0m
