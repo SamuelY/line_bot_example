@@ -3,10 +3,6 @@ const axios = require('axios');
 const line = require('@line/bot-sdk');
 const router = express.Router();
 
-/*const config = {
-  channelAccessToken: 'xoqO/ASvrXG3DppTQRm1d7Y4r83B5Z1iI54lSNJcWBF4XmowPQBCZB/dFg9MykWfOt2Sh6QBNcxQsDnlNpG/7Ghev197Th6hLyk4Wk3dvrJQ03kcXbbZrlzMQXXP35UL6x8B9zjW+5VHtTsVoRmJbQdB04t89/1O/w1cDnyilFU=',
-  channelSecret: '8ede48259925832bcf4e0e40a5b908f6'
-}*/
 /* GET home page. */
 router.get('/', function(req, res, next) {
     res.render('index', { title: 'Express' });
